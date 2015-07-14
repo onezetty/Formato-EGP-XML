@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="En Tu Tele" generator-info-url="http://www.entutele.com">
+  <channel id="Fox">
+    <display-name lang="es">Fox</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/fox.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="es">Warner HD</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/warner-channel.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Universal HD">
+    <display-name lang="es">Universal HD</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="es">FX HD</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="A E">
+    <display-name lang="es">A E</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/ae.gif" />
+    <url>http://www.entutele.com</url>
+  </channel>
+<programme start="20150602012500 -0500" stop="20150602015500 -0500" channel="Fox">
+    <title lang="es">Futurama</title>
+    <sub-title lang="es">The Farnsworth Parabox</sub-title>
+    <desc lang="es">Fry era un repartidor de pizza de 25 años cuya vida no iba hacia ningún lado. Luego de que se congelara por accidente en la celebración de Año Nuevo en Nueva York, en 1999, despierta 1000 años en el futuro con la oportunidad de comenzar de nuevo en un futuro lleno de extraños extraterrestres y robots malhumorados. Ahora trabaja para el Planet Express, un servicio de mensajería intergaláctico que transporta paquetes a los 5 cuadrantes del universo(n)</desc>
+    <credits>
+      <actor>Billy West</actor>
+      <actor>Katey Sagal</actor>
+      <actor>Matt Groening</actor>
+      <actor>John DiMaggio</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20150602015500 -0500" stop="20150602035000 -0500" channel="Fox">
+    <title lang="es">Panic Room</title>
+    <desc lang="es">Meg y su hija se mudan a una casa con una habitación súper segura. El problema real comienza cuando tres ladrones intentan recuperar algo que está enterrado en la misma habitación donde la madre y la hija se esconden(n)</desc>
+    <credits>
+      <actor>Ann Magnuson</actor>
+      <actor>Jodie Foster</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>David Fincher</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20150602035000 -0500" stop="20150602053500 -0500" channel="Fox">
+    <title lang="es">Intersection</title>
+    <desc lang="es">Vincent es un brillante y reconocido arquitecto, casado con Sally. Tienen una hija adorable. Pero el destino lo pondrá en medio de una encrucijada(n)</desc>
+    <credits>
+      <actor>Mark Rydell</actor>
+      <actor>Sharon Stone</actor>
+      <actor>Lolita Davidovich</actor>
+      <actor>Richard Gere</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
